@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CXCommonKit-Swift.h</key>
 		<data>
-		Q1tFqWRtEooDRe+il6m26eh8vYw=
+		6nnonmEu4a0VpTMcpVXbYxEj2WA=
 		</data>
 		<key>Headers/CXCommonKit.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fypiTT/JO7z3jdh6evgPmL1BBwc=
+		TCBJRbOWznRWF/bs994T+vhndo8=
 		</data>
-		<key>Modules/CXCommonKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CXCommonKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		JpSiPGzP1KBT07F++G9of9f7jJE=
+		wcnr+pD0Ia6/+MK7ZPerhAvIW28=
 		</data>
-		<key>Modules/CXCommonKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/CXCommonKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
 		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
-		<key>Modules/CXCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/CXCommonKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Rshy/5Hmz06A7HnwJew3BSaNup0=
+		IeGej0BKRjHaStSXuGNSyc/PSOk=
 		</data>
-		<key>Modules/CXCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/CXCommonKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vO9bEu8cPgj4FlloQ9FNjpKDHgM=
+		ovFFTBgGSq+se4pZjhyW8+KokGE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q1tFqWRtEooDRe+il6m26eh8vYw=
+			6nnonmEu4a0VpTMcpVXbYxEj2WA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ma0hh8pEr+68DYkurtyYTvaDS8iABg/VKSzwlbmVXqY=
+			B16MVdTMMcF3F4nzhB2B21cQpc2sozMrtcqjxcb7p38=
 			</data>
 		</dict>
 		<key>Headers/CXCommonKit.h</key>
@@ -61,18 +61,18 @@
 			tlsnAvtv2hmsgicOEeivNa1GGcKnEht9c0N57nrJvJw=
 			</data>
 		</dict>
-		<key>Modules/CXCommonKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CXCommonKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JpSiPGzP1KBT07F++G9of9f7jJE=
+			wcnr+pD0Ia6/+MK7ZPerhAvIW28=
 			</data>
 			<key>hash2</key>
 			<data>
-			xak0PzXQ7LJg6r3vvq7wnW4ISLsXHZ+NxdmD1JUpeo8=
+			Rbu3/LS5J70W3h9570fy7eZkWp1ZJ9He9ZenoiT7OaM=
 			</data>
 		</dict>
-		<key>Modules/CXCommonKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/CXCommonKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -83,26 +83,26 @@
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
-		<key>Modules/CXCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/CXCommonKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rshy/5Hmz06A7HnwJew3BSaNup0=
+			IeGej0BKRjHaStSXuGNSyc/PSOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			807MtTb4AKBD7bx5kOCFvtedIMLq+WnaQbDZh4PK6f8=
+			Ta9qxzGUzdkAcGyhR2r0yETpGxTppD/tB8hvx5j7iR8=
 			</data>
 		</dict>
-		<key>Modules/CXCommonKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/CXCommonKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vO9bEu8cPgj4FlloQ9FNjpKDHgM=
+			ovFFTBgGSq+se4pZjhyW8+KokGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			a7VviE5TEu8IJxLK+laFIxda8/rAO9D7KunuQym/sBk=
+			DE6Aif9bE18BUAPjze2sgKUwwNgBoMVM0HlN4Mw0nZc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
