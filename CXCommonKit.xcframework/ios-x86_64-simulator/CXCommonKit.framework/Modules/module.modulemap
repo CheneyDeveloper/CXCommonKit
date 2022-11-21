@@ -1,0 +1,11 @@
+framework module CXCommonKit {
+  umbrella header "CXCommonKit.h"
+
+  export *
+  module * { export * }
+}
+
+module CXCommonKit.Swift {
+  header "CXCommonKit-Swift.h"
+  requires objc
+}
