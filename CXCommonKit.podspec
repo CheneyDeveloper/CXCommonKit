@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CXCommonKit"
-  spec.version      = "0.0.8"
+  spec.version      = "0.0.9"
   spec.summary      = "A short description of CXCommonKit."
   spec.description  = <<-DESC
     description of CXCommonKit
@@ -46,7 +46,7 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
   
-  spec.vendored_frameworks ='CXCommonKit.xcframework'
+  spec.vendored_frameworks ='CXCommonKit.framework'
   spec.swift_version = "4.0"
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
