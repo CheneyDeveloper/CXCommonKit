@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CXCommonKit"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.8"
   spec.summary      = "A short description of CXCommonKit."
   spec.description  = <<-DESC
     description of CXCommonKit
