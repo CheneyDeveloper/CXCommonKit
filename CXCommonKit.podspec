@@ -47,6 +47,7 @@ Pod::Spec.new do |spec|
   # spec.dependency "JSONKit", "~> 1.4"
   spec.dependency "SnapKit"
   spec.vendored_frameworks ='CXCommonKit.framework'
+  spec.resource_bundles = 'CXKitResource.bundle'
   spec.swift_version = "4.0"
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
